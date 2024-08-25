@@ -1,6 +1,6 @@
 ##### Table of Contents  
 [Netflix Stock Price Prediction](#headers)  
-[Music Genre Classifications](#emphasis)  
+[Music Genre Classification](#emphasis)  
     
 <a name="headers"/>
 
