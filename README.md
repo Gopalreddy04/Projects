@@ -1,3 +1,9 @@
+##### Table of Contents  
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
 
 # Netflix Stock Price Prediction
 
@@ -38,4 +44,5 @@ Yahoo Finance for stock data
 Contributions: Feel free to submit issues or pull requests if you have suggestions for improvements.
 
 **License:** This project is licensed under the MIT License.
+
 
