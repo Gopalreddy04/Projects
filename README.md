@@ -1,5 +1,5 @@
-Netflix Stock Price Prediction
-Project Title: Netflix Stock Price Prediction
+**Netflix Stock Price Prediction
+**Project Title: Netflix Stock Price Prediction
 
 Description: This project involves predicting the stock price of Netflix using historical stock data. The goal is to build a predictive model that can forecast future stock prices based on past trends.
 
