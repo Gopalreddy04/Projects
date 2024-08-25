@@ -3,9 +3,8 @@
 [Music Genre Classifications](#emphasis)  
     
 <a name="headers"/>
-## Headers
 
-# Netflix Stock Price Prediction
+## Netflix Stock Price Prediction
 
 **Project Title**: Netflix Stock Price Prediction
 
