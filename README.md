@@ -1,6 +1,6 @@
 ##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+[Netflix Stock Price Prediction](#headers)  
+[Music Genre Classifications](#emphasis)  
     
 <a name="headers"/>
 ## Headers
