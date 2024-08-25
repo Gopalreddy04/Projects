@@ -45,7 +45,7 @@ Contributions: Feel free to submit issues or pull requests if you have suggestio
 **License:** This project is licensed under the MIT License.
 
 
-# Music Genre Classification
+## Music Genre Classification
 **Project Title:** Music Genre Classification
 
 **Description:** 
